@@ -1,4 +1,4 @@
-# Fábio Almeida — Portfólio
+# Fábio Almeida - Portfólio
 
 Portfólio pessoal em **Next.js 16**, **TypeScript** e **Tailwind CSS 4**. Uma página só, com apresentação, projetos em destaque, stack, trajetória e contato.
 
@@ -8,12 +8,12 @@ Portfólio pessoal em **Next.js 16**, **TypeScript** e **Tailwind CSS 4**. Uma p
 
 ## O que tem no site
 
-- **Hero** — posicionamento, disponibilidade, retrato e atalhos para projetos e contato
-- **Sobre** — trajetória, o que eu faço e o que estou estudando agora
+- **Hero** - posicionamento, disponibilidade, retrato e atalhos para projetos e contato
+- **Sobre** - trajetória, o que eu faço e o que estou estudando agora
 - **Projetos** — quatro destaques com prévia real dos sites, mais três projetos em lista
-- **Stack** — tecnologias agrupadas por área, com o que está na fila de aprendizado
-- **Trajetória** — linha do tempo de 2019 a 2026, incluindo a graduação em ADS
-- **Contato** — e-mail, WhatsApp, LinkedIn e GitHub, com botão de copiar e-mail
+- **Stack** - tecnologias agrupadas por área, com o que está na fila de aprendizado
+- **Trajetória** - linha do tempo de 2019 a 2026, incluindo a graduação em ADS
+- **Contato** - e-mail, WhatsApp, LinkedIn e GitHub, com botão de copiar e-mail
 
 ## Stack
 
@@ -164,4 +164,4 @@ Para usar um domínio próprio, configure o DNS na Vercel e atualize `NEXT_PUBLI
 
 ## Licença
 
-Conteúdo pessoal (textos, foto e marca) — todos os direitos reservados. O código pode ser usado como referência.
+Conteúdo pessoal (textos, foto e marca) - todos os direitos reservados. O código pode ser usado como referência.
