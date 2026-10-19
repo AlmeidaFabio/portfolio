@@ -40,7 +40,7 @@ export function Contact() {
                 </h2>
                 <p className="mt-6 max-w-md text-[15px] leading-relaxed text-white/55 sm:text-base">
                   Estou disponível para oportunidades full stack e projetos freelance.
-                  Me conte o que você tem em mente — normalmente respondo no mesmo dia.
+                  Me conte o que você tem em mente - normalmente respondo no mesmo dia.
                 </p>
 
                 <div className="mt-8 flex items-center gap-2">

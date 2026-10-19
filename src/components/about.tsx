@@ -7,7 +7,7 @@ const services = [
   {
     title: "Interfaces",
     description:
-      "Front-end em React, Next.js ou Astro. Rápido, responsivo e acessível — sem sacrificar personalidade.",
+      "Front-end em React, Next.js ou Astro. Rápido, responsivo e acessível, sem sacrificar personalidade.",
     icon: LayoutTemplate,
   },
   {
@@ -63,7 +63,7 @@ export function About() {
             <Reveal>
               <p className="text-lg leading-relaxed text-white/70 sm:text-xl sm:leading-relaxed">
                 Sou desenvolvedor full stack formado em Análise e Desenvolvimento de
-                Sistemas. Desde 2019 venho construindo na web — comecei com HTML, CSS e
+                Sistemas. Desde 2019 venho construindo na web, comecei com HTML, CSS e
                 JavaScript e hoje trabalho com todo o ciclo de um produto: modelagem de
                 dados, API, interface e deploy.
               </p>
