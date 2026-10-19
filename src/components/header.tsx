@@ -68,12 +68,23 @@ export function Header() {
 
   return (
     <header className="fixed inset-x-0 top-0 z-50 pt-3 sm:pt-5">
+      <div
+        aria-hidden="true"
+        className={
+          "pointer-events-none absolute inset-x-0 top-0 h-28 transition-opacity duration-500 " +
+          (scrolled || open ? "opacity-100" : "opacity-0")
+        }
+        style={{
+          background:
+            "linear-gradient(to bottom, #07070a 0%, rgba(7,7,10,0.92) 55%, rgba(7,7,10,0) 100%)",
+        }}
+      />
       <div className="shell relative z-10">
         <div
           className={
             "flex items-center justify-between gap-3 rounded-2xl px-3 py-2.5 transition-all duration-500 sm:rounded-full sm:px-4 " +
             (scrolled || open
-              ? "glass shadow-[0_20px_70px_-30px_rgba(0,0,0,0.95)]"
+              ? "border border-white/[0.09] bg-ink/85 shadow-[0_20px_70px_-30px_rgba(0,0,0,0.95)] backdrop-blur-xl"
               : "border border-transparent")
           }
         >
