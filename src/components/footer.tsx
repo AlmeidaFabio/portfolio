@@ -53,10 +53,8 @@ export function Footer() {
           </div>
         </div>
 
-        <div className="mt-10 flex flex-col gap-2 border-t border-white/[0.06] pt-6 font-mono text-[10px] uppercase tracking-[0.12em] text-white/50 sm:flex-row sm:items-center sm:justify-between">
+        <div className="mt-10 border-t border-white/[0.06] pt-6 font-mono text-[10px] uppercase tracking-[0.12em] text-white/50">
           <span>© {new Date().getFullYear()} Fábio Almeida</span>
-          <span>Feito com Next.js, Tailwind e TypeScript</span>
-          <span>Brasil · UTC-3</span>
         </div>
       </div>
     </footer>
