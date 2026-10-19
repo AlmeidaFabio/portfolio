@@ -26,14 +26,14 @@ const instrumentSerif = Instrument_Serif({
   display: "swap",
 });
 
-const title = site.name + " — " + site.role;
+const title = site.name + " - " + site.role;
 const description = site.description;
 
 export const metadata: Metadata = {
   metadataBase: new URL(site.url),
   title: {
     default: title,
-    template: "%s — " + site.name,
+    template: "%s - " + site.name,
   },
   description,
   keywords: [
@@ -65,7 +65,7 @@ export const metadata: Metadata = {
         url: "/opengraph-image",
         width: 1200,
         height: 630,
-        alt: site.name + " — " + site.role,
+        alt: site.name + " - " + site.role,
       },
     ],
   },
