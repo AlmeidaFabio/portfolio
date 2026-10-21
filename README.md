@@ -82,7 +82,7 @@ Sem `image`, o card usa uma capa tipográfica gerada por CSS. Basta colocar a im
 
 ### Trocar a foto
 
-Substitua `public/perfil-2026.webp`. O retrato aparece em um cartão claro inclinado no hero — funciona melhor com fundo neutro e enquadramento do busto para cima.
+Substitua `public/perfil-2026-studio.webp`. O retrato aparece em um cartão claro inclinado no hero — funciona melhor com fundo neutro e enquadramento do busto para cima.
 
 ### Cores e tipografia
 
@@ -124,7 +124,7 @@ src/
   data/
     site.ts             todo o conteúdo editável
 public/
-  perfil-2026.webp
+  perfil-2026-studio.webp
   projects/             prévias dos projetos (WebP)
 ```
 

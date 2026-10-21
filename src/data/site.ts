@@ -10,7 +10,7 @@ export const site = {
   whatsapp: "https://wa.me/5598987534423",
   linkedin: "https://www.linkedin.com/in/almeidafabioo/",
   github: "https://github.com/AlmeidaFabio",
-  avatar: "/perfil-2026.webp",
+  avatar: "/perfil-2026-studio.webp",
   availability: "Disponível para oportunidades e projetos",
 } as const;
 

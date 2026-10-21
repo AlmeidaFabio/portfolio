@@ -146,17 +146,17 @@ function Portrait() {
         </div>
       </div>
 
-      <div className="animate-float absolute -left-4 top-16 hidden items-center gap-2 rounded-full border border-white/15 bg-[#0d0d12]/90 px-3 py-1.5 shadow-[0_12px_40px_-12px_rgba(0,0,0,0.9)] backdrop-blur-md sm:flex lg:-left-8">
+      <div className="animate-float absolute -left-4 top-16 hidden items-center gap-2 rounded-full border border-ink/10 bg-cream px-3 py-1.5 shadow-[0_12px_40px_-12px_rgba(0,0,0,0.9)] backdrop-blur-md sm:flex lg:-left-8">
         <span className="size-1.5 rounded-full bg-[#3178c6]" />
-        <span className="font-mono text-[10px] tracking-wide text-white/75">TypeScript</span>
+        <span className="font-mono text-[10px] tracking-wide text-ink/80">TypeScript</span>
       </div>
 
       <div
-        className="animate-float absolute -right-3 top-1/2 hidden items-center gap-2 rounded-full border border-white/15 bg-[#0d0d12]/90 px-3 py-1.5 shadow-[0_12px_40px_-12px_rgba(0,0,0,0.9)] backdrop-blur-md sm:flex lg:-right-6"
+        className="animate-float absolute -right-3 top-1/2 hidden items-center gap-2 rounded-full border border-ink/10 bg-cream px-3 py-1.5 shadow-[0_12px_40px_-12px_rgba(0,0,0,0.9)] backdrop-blur-md sm:flex lg:-right-6"
         style={{ animationDelay: "1.4s" }}
       >
         <span className="size-1.5 rounded-full bg-accent" />
-        <span className="font-mono text-[10px] tracking-wide text-white/75">Next.js</span>
+        <span className="font-mono text-[10px] tracking-wide text-ink/80">Next.js</span>
       </div>
 
 
