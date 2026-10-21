@@ -1,167 +1,94 @@
-# Fábio Almeida - Portfólio
+# Fábio Almeida
 
-Portfólio pessoal em **Next.js 16**, **TypeScript** e **Tailwind CSS 4**. Uma página só, com apresentação, projetos em destaque, stack, trajetória e contato.
+### Desenvolvedor Full Stack
 
-**[almeidafabio-portifolio.vercel.app](https://almeidafabio-portifolio.vercel.app)**
+Brasil · Remoto · [Portfólio](https://almeidafabio-portifolio.vercel.app) · [LinkedIn](https://www.linkedin.com/in/almeidafabioo/) · [GitHub](https://github.com/AlmeidaFabio) · [E-mail](mailto:fabio.633@hotmail.com)
 
 ![Página inicial do portfólio](docs/home.webp)
 
-## O que tem no site
+## Uma apresentação rápida
 
-- **Hero** - posicionamento, disponibilidade, retrato e atalhos para projetos e contato
-- **Sobre** - trajetória, o que eu faço e o que estou estudando agora
-- **Projetos** — quatro destaques com prévia real dos sites, mais três projetos em lista
-- **Stack** - tecnologias agrupadas por área, com o que está na fila de aprendizado
-- **Trajetória** - linha do tempo de 2019 a 2026, incluindo a graduação em ADS
-- **Contato** - e-mail, WhatsApp, LinkedIn e GitHub, com botão de copiar e-mail
+Sou desenvolvedor full stack formado em Análise e Desenvolvimento de Sistemas. Comecei em 2019, com HTML, CSS e JavaScript, e desde então fui atrás de entender tudo o que existe entre uma ideia e um produto no ar: a interface, a API, o banco de dados e o deploy.
 
-## Stack
+Gosto de código que outra pessoa consegue ler, de testes que pegam o que importa e de interfaces que não fazem o usuário pensar. Nesse caminho, já construí uma API com autenticação JWT, upload de imagens e Docker, um quiz multijogador em tempo real com WebSockets e um blog estático com acessibilidade 100.
 
-| | |
-|---|---|
-| Framework | Next.js 16 (App Router, Turbopack) |
-| Linguagem | TypeScript |
-| Estilo | Tailwind CSS 4, com design tokens em CSS |
-| Fontes | Geist, Geist Mono e Instrument Serif via `next/font` |
-| Ícones | lucide-react + SVGs próprios das marcas |
-| Imagens | `next/image`, com prévias em WebP |
-| Deploy | Vercel |
+Estou aberto a oportunidades full stack e a projetos freelance. Se você tem uma vaga, uma ideia ou só quer conversar sobre tecnologia, é só me chamar.
 
-Sem biblioteca de animação: os reveals usam `IntersectionObserver` e o restante é CSS. O site respeita `prefers-reduced-motion`.
+## O que eu faço
 
-## Rodando localmente
+**Interfaces.** Front-end em React, Next.js ou Astro. Rápido, responsivo e acessível, sem sacrificar personalidade.
 
-Requer Node.js 20 ou superior.
+**APIs.** Back-end em Node com autenticação, validação, testes e um banco de dados modelado para durar.
+
+**Do zero ao deploy.** Modelagem, integração, CI/CD e publicação. Do primeiro commit ao link no ar.
+
+## Projetos que eu gosto de mostrar
+
+**[Chess Streamers](https://almeidafabio.github.io/chess_streamers/)** · React, TypeScript, Tailwind CSS
+
+Um jeito simples de descobrir quem está ao vivo no xadrez do Chess.com, com busca, favoritos e links para Twitch, YouTube e Kick.
+
+**[Petisquinho](https://petisquinho.com)** · Astro, TypeScript, Tailwind CSS
+
+Blog de conteúdo curto sobre curiosidades e cultura. Acessibilidade 100 no Lighthouse e checagens de build que bloqueiam link quebrado e imagem ausente.
+
+**[OnePiece API](https://github.com/AlmeidaFabio/OnePiece-api)** · Node.js, TypeScript, Prisma, PostgreSQL, Docker
+
+API REST de personagens de One Piece com CRUD completo, autenticação JWT, upload de imagens e testes com Vitest.
+
+**[Edital em Questão](https://e-questions.vercel.app)** · Next.js, TypeScript, Laravel
+
+Plataforma de simulados para concursos públicos, com timer, correção automática, estatísticas de desempenho e histórico de tentativas.
+
+Outros trabalhos: [Quiz Multijogador](https://github.com/AlmeidaFabio/quiz-multijogador-online), [GitHubers](https://github.com/AlmeidaFabio/githubers) e [Flashcards CNU](https://github.com/AlmeidaFabio/next-cnu-flashcards).
+
+## O que eu uso no dia a dia
+
+- **Front-end:** React, Next.js, TypeScript, Tailwind CSS, Astro
+- **Back-end:** Node.js, Fastify, Express, Prisma, TypeORM, JWT
+- **Dados:** PostgreSQL, MySQL, Redis, MongoDB
+- **Infra e ferramentas:** Docker, Git, GitHub Actions, Vitest, Vercel
+
+**Idiomas:** português nativo, inglês intermediário.
+
+Estudando agora: arquitetura de software, observabilidade e AWS.
+
+## Minha trajetória
+
+- **2019:** primeiros passos com HTML, CSS e JavaScript pelos cursos da B7Web.
+- **2022:** graduação em Análise e Desenvolvimento de Sistemas pela Estácio.
+- **2023:** primeiros projetos publicados, entre eles o GitHubers e a primeira versão do portfólio.
+- **2024:** back-end na prática, com APIs em Node, TypeScript, TypeORM e MySQL; SOLID e padrões de projeto.
+- **2025:** produtos completos, com o Edital em Questão e os flashcards para o Concurso Nacional Unificado.
+- **2026:** full stack em produção, com OnePiece API, quiz em tempo real e o Petisquinho em Astro.
+
+## Vamos conversar
+
+Estou disponível para oportunidades full stack e projetos freelance, em modelo remoto ou híbrido. Normalmente respondo no mesmo dia.
+
+- **E-mail:** [fabio.633@hotmail.com](mailto:fabio.633@hotmail.com)
+- **WhatsApp:** [+55 98 98753-4423](https://wa.me/5598987534423)
+- **LinkedIn:** [linkedin.com/in/almeidafabioo](https://www.linkedin.com/in/almeidafabioo/)
+- **GitHub:** [github.com/AlmeidaFabio](https://github.com/AlmeidaFabio)
+
+---
+
+<details>
+<summary><strong>Sobre este site</strong> (detalhes técnicos)</summary>
+
+Feito com Next.js 16, TypeScript e Tailwind CSS 4, com fontes Geist e Instrument Serif. O conteúdo, os projetos e a linha do tempo ficam em `src/data/site.ts`; a foto, em `public/perfil-2026-studio.webp`.
+
+Para rodar localmente:
 
 ```bash
 npm install
 npm run dev
 ```
 
-Abre em `http://localhost:3000`.
+Abre em `http://localhost:3000`. A build de produção roda com `npm run build` e o deploy é feito na Vercel.
 
-Para conferir a build de produção:
+O domínio público é configurado por `NEXT_PUBLIC_SITE_URL`. A imagem de Open Graph é gerada em `src/app/opengraph-image.tsx`.
 
-```bash
-npm run build
-npm start
-```
+Última auditoria do Lighthouse (produção, mobile): Performance 93, Acessibilidade 100, Boas práticas 100, SEO 100.
 
-## Editando o conteúdo
-
-Quase tudo que muda de tempos em tempos está em **`src/data/site.ts`**:
-
-| O que mudar | Onde |
-|---|---|
-| Nome, e-mail, WhatsApp, LinkedIn, GitHub, localização | objeto `site` |
-| Projetos em destaque | array `projects` |
-| Outros projetos (lista menor) | array `otherProjects` |
-| Stack e "aprendendo agora" | `stack` e `learning` |
-| Linha do tempo | array `milestones` |
-| Links do menu | array `navLinks` |
-
-Os textos das seções (hero, sobre, contato) ficam nos componentes em `src/components`.
-
-### Adicionar um projeto
-
-```ts
-{
-  slug: "meu-projeto",
-  title: "Meu Projeto",
-  year: "2026",
-  summary: "Uma frase explicando o problema e a solução.",
-  tags: ["Next.js", "TypeScript"],
-  repo: "https://github.com/AlmeidaFabio/meu-projeto",
-  live: "https://meu-projeto.vercel.app",
-  image: "/projects/meu-projeto.webp", // opcional
-  featured: true,
-}
-```
-
-Sem `image`, o card usa uma capa tipográfica gerada por CSS. Basta colocar a imagem em `public/projects/` com proporção **16:10** (recomendado: 1600×1000, WebP).
-
-### Trocar a foto
-
-Substitua `public/perfil-2026-studio.webp`. O retrato aparece em um cartão claro inclinado no hero — funciona melhor com fundo neutro e enquadramento do busto para cima.
-
-### Cores e tipografia
-
-Os tokens estão no bloco `@theme` de `src/app/globals.css`:
-
-```css
---color-ink: #07070a;
---color-accent: #d6ff4b;
---color-cream: #f1ebdc;
-```
-
-### Domínio e SEO
-
-Defina a URL pública em `.env.local` (ou nas variáveis da Vercel):
-
-```bash
-NEXT_PUBLIC_SITE_URL=https://seu-dominio.com
-```
-
-Ela alimenta `metadataBase`, sitemap, robots e canonical. A imagem de Open Graph é gerada em `src/app/opengraph-image.tsx` e já usa essa URL.
-
-## Estrutura
-
-```
-src/
-  app/
-    layout.tsx          fontes, metadata, JSON-LD, header e footer
-    page.tsx            composição das seções
-    globals.css         tokens, componentes e animações
-    opengraph-image.tsx imagem 1200×630 gerada no build
-    icon.svg            favicon
-    sitemap.ts robots.ts
-    not-found.tsx       404
-    _fonts/             TTFs usadas na imagem de Open Graph
-  components/
-    header, hero, marquee, about, projects, project-cover,
-    stack, timeline, contact, contact-actions, footer,
-    reveal, scroll-progress, section-label, brand-icons
-  data/
-    site.ts             todo o conteúdo editável
-public/
-  perfil-2026-studio.webp
-  projects/             prévias dos projetos (WebP)
-```
-
-## Acessibilidade e performance
-
-Última auditoria do Lighthouse (build de produção, mobile):
-
-| Categoria | Nota |
-|---|---|
-| Performance | 93 |
-| Acessibilidade | 100 |
-| Boas práticas | 100 |
-| SEO | 100 |
-
-O que está implementado:
-
-- HTML semântico, um `h1` por página e landmarks (`header`, `main`, `footer`, `nav`)
-- Link "Pular para o conteúdo", foco visível e contraste AA nos textos
-- `prefers-reduced-motion` desliga reveals, marquee e animações
-- Imagens com `sizes`, `alt` e formatos modernos
-- Open Graph, Twitter Card, JSON-LD (`Person`), sitemap e robots
-
-## Deploy na Vercel
-
-1. Suba o projeto para um repositório no GitHub.
-2. Importe o repositório em [vercel.com/new](https://vercel.com/new).
-3. Adicione `NEXT_PUBLIC_SITE_URL` com o domínio final.
-4. Deploy.
-
-Ou pela CLI:
-
-```bash
-npx vercel --prod
-```
-
-Para usar um domínio próprio, configure o DNS na Vercel e atualize `NEXT_PUBLIC_SITE_URL`.
-
-## Licença
-
-Conteúdo pessoal (textos, foto e marca) - todos os direitos reservados. O código pode ser usado como referência.
+</details>
